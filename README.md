@@ -9,32 +9,32 @@ To write a program to implement the multivariate linear regression model for sal
 
 ## Algorithm
 
-## STEP:1
+## STEP 1:
 Import the required libraries.
 
-## STEP:2
+## STEP 2:
 Read the csv file using pandas.
 
-## STEP:3
+## STEP 3:
 Declare X and Y variable with respect to the dataset.
 
-## STEP:4
+## STEP 4:
 Predict the values.
 
-## STEP:5
+## STEP 5:
 Using Mean Square Error find the required line that fits the data.
 
-## STEP:6
+## STEP 6:
 Print the Mean Square Error and R square error.
 
-## STEP:7
+## STEP 7:
 End the program.
 
 ## Program:
 ```
 Program to implement the multivariate linear regression model for sales prediction.
-Developed by: Monisha T
-RegisterNumber:  212221240029
+Developed by: Pragatheesvaran AB
+RegisterNumber:  212221240039
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -63,7 +63,7 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![multivariate linear regression model for sales prediction](output1.png)
+![multivariate linear regression model for sales prediction](1.png)
 
 
 ## Result:
